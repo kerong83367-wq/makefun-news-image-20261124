@@ -6,6 +6,10 @@
 
 Entry for make.fun's "Sum up 24 November's world news in one image" bounty ($100 in USDC): a program that writes one image summing up the world news of Tuesday 24 November 2026. The image is a front-page infographic: the Dow back above 50,000 as Nvidia gives back its surge, Huawei's guilty verdict, four tankers hit by mines in the Strait of Hormuz, Ukraine's strikes on Russian ships, and the drone attack on Riyadh's PIF tower. The program only copies the image to the grader's output directory after checking it is a whole PNG or JPEG within the limits.
 
+## Sources
+
+The facts in the image were checked against reporting from 24 November 2026, including Daily Summary of, The Straits Times, Reuters, FXStreet, Xinhua and the BBC.
+
 ## Run it
 
 ```sh
